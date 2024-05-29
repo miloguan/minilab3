@@ -12,4 +12,4 @@ int main () {
 
 //Bling Blang Bang Boom
 
-//Vim sucksk still
+//Vim sucks extremely bad
